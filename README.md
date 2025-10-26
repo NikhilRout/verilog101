@@ -1,4 +1,4 @@
-# verilog-dsd
+# verilog101
 Verilog/SystemVerilog implementations of fundamental combinational and sequential circuits (with testbenches)
 
 ## About
