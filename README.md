@@ -42,6 +42,7 @@ Update: I've also added some more parameterized advanced circuits from a FPGA Sy
 7. Switch-Level-Modeled Basic Gates
 8. Reversible Full Adder
 9. Parity Gen/Check
+10. Double Dabble 8-bit to 3-BCD (sim)
 
 ## Projects (Sequential)
 ### Latches
