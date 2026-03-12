@@ -1,11 +1,6 @@
 # verilog101
 Verilog/SystemVerilog implementations of fundamental combinational and sequential circuits (with testbenches)
 
-## About
-Starting out with Verilog during my first digital systems design class, I couldn't find a comprehensive Verilog guide with multiple examples all in one resource. So I decided to create this reference repository consolidating all my Verilog code as I progressed in class and my own study. It includes the dataflow, structural, and behavioral modeling of Verilog code for a broad range of fundamental combinational and sequential circuits, complete with corresponding testbenches.
-
-Update: I've also added some more parameterized advanced circuits from a FPGA System Design class I took.
-
 ## Projects (Combinational)
 ### Adders and Subtractors
 1. Half Adder
@@ -72,6 +67,12 @@ Update: I've also added some more parameterized advanced circuits from a FPGA Sy
 1. ROM
 2. RAM
 3. FIFO
+
+## SystemVerilog Feature Examples
+1. Package
+2. Interface
+3. DPI (Direct Programming Interface)
+
 
 ## Random Notes
 ### Choosing modeling style
